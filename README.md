@@ -1,0 +1,2 @@
+# LogLibrary
+抓取指定log与异常log并保存到本地手机内部存储空间
